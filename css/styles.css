@@ -28,6 +28,7 @@ p {
   background-color: #4f8a8b;
   position: relative;
   padding-top: 120px;
+  width: 100vw;
 }
 
 .middle-container {
