@@ -45,17 +45,20 @@ p {
   position: absolute;
   right: 300px;
   top: 50px;
-  resize: both;
+
 }
 
 .bottom-cloud {
   position: absolute;
   left: 300px;
-  resize: both;
+
 }
 
 .mountain{
-  resize: both;
+max-width: 100%;
+max-height: 100%;
+height: auto;
+width: auto;
 }
 
 .graduated-icon {
