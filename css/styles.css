@@ -24,15 +24,12 @@ p {
   font-size: 1.3em;
 }
 
-img {
-  overflow: hidden;
-}
-
 .top-container {
   background-color: #4f8a8b;
   position: relative;
   padding-top: 120px;
   width: 100vw;
+  overflow: hidden;
 }
 
 .middle-container {
